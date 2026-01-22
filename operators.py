@@ -25,7 +25,8 @@ print(32%5) # reminder
 
 #! Logical operator
 
-print(123> 100 and 34 == 34 ) #True [ all true then true]
-print()
+print(123> 100 and 34 == 34 ) #True [ all true then true] #!and
+print(11>12 or 1==1 or 12>11) #True [ek bhi true hai to true] #! or
+print(12!= 13) #True  [ulta kar deta hai ] #!not
 
 
