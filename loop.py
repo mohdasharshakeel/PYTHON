@@ -26,6 +26,15 @@
 
 #! table with input
 
-n = int(input("Enter the number of table :"))
-for i in range(n,n*10+1,n):
-    print(i)
+# n = int(input("Enter the number of table :"))
+# for i in range(n,n*10+1,n):
+#     print(i)
+
+#! loops on string
+
+a = "Ashar"
+for i in range(0,5,1):
+    print(a[i])
+
+for char in a:
+    print(char)
