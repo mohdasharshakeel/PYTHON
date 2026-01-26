@@ -38,3 +38,5 @@ for i in range(0,5,1):
 
 for char in a:
     print(char)
+
+#! For Loop question
