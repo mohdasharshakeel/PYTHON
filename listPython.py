@@ -30,7 +30,7 @@ for i in range(len(l)):
         largest = l[i]
     elif l[i] > secondLarest:
         secondLarest = l[i]
-print(secondLarest, largest)
+ print(secondLarest, largest)
 
 
 
