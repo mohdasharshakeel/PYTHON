@@ -36,7 +36,7 @@ a = "Ashar"
 for i in range(0,5,1):
     print(a[i])
 
-for char in a:
-    print(char)
+# for char in a:
+#     print(char)
 
 #! For Loop question
