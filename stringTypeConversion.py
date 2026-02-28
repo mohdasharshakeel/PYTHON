@@ -9,3 +9,4 @@ print(c[2])
 d = 'Madara Uchiha'
 print(d[7:13:1]) #! uchiha   slice in string
     
+    
