@@ -1,2 +1,1 @@
-Python Course yeah
-okay
+Python Course 
