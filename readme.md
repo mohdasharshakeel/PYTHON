@@ -1,1 +1,1 @@
-Python Course for data analysis starting from monday okay dude
+Python Course for data analysis starting from monday okay 
