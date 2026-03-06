@@ -1,1 +1,0 @@
-Python Course for data analysis starting from monday okay 
