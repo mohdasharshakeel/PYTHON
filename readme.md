@@ -1,1 +1,1 @@
-starting from monday yes 
+starting from monday 
