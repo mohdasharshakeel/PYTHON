@@ -1,1 +1,1 @@
-yeah  yedh
+starting SQL fater then i learn python
