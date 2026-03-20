@@ -1,1 +1,1 @@
-starting SQL fater then i learn python yes
+almost python is completed
