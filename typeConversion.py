@@ -8,3 +8,5 @@ b = int(b)
 print(type(b)) # integer
 
 #! falsy value are =  false, 0 , 0.0 , "", [] , () , {}
+
+print("yeagh")
