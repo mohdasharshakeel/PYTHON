@@ -1,0 +1,1 @@
+pata nahi kya kr rha hu life me 
